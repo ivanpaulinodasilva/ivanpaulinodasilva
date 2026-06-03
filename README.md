@@ -32,8 +32,6 @@
 
 ## 📊 Estatísticas e Métricas
 
-## 📊 Estatísticas e Métricas
-
 ### 📈 Visão Geral do Perfil
 <p align="center">
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ivanpaulinodasilva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Estatísticas Gerais" />
