@@ -29,23 +29,22 @@
 </p>
 
 ---
-
 ## 📊 Estatísticas e Métricas
 
 ### 📈 Visão Geral do Perfil
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ivanpaulinodasilva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Estatísticas Gerais" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/v2/consecutive-commits?username=ivanpaulinodasilva&theme=tokyonight&hide_border=true" width="48%" alt="Dias Consecutivos" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanpaulinodasilva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Estatísticas Gerais" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/v2/consecutive-commits?username=ivanpaulinodasilva&theme=tokyonight&hide_border=true" width="48%" alt="Dias Consecutivos" />
 </p>
 
 ### 🕒 Idiomas Mais Usados
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ivanpaulinodasilva&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="60%" alt="Idiomas Mais Usados" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanpaulinodasilva&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="60%" alt="Idiomas Mais Usados" />
 </p>
 
 ### 🏆 Conquistas e Troféus (Badges)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivanpaulinodasilva&theme=tokyonight&column=5&no-bg=true&no-frame=true" alt="Troféus do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ivanpaulinodasilva&theme=tokyonight&column=5&no-bg=true" alt="Troféus do GitHub" />
 </p>
 
 ### 📉 Histórico de Contribuições Anual
