@@ -1,4 +1,4 @@
-# 🐧 Olá, eu sou o PinguinDev!
+# 🐧 Olá, eu sou o ivanpaulinodasilva!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;" alt="Typing SVG" />
@@ -15,7 +15,7 @@
         <li>☕ Café, código e pinguins!</li>
       </ul>
       <br>
-      <img src="https://komarev.com/ghpvc/?username=pinguindev&color=38bdf8&style=flat-square&label=Visitas" alt="Contador de Visitas" />
+      <img src="https://komarev.com/ghpvc/?username=ivanpaulinodasilva&color=38bdf8&style=flat-square&label=Visitas" alt="Contador de Visitas" />
     </td>
     <td valign="top" width="40%" align="center">
       <img src="https://raw.githubusercontent.com/Anankke/Anankke/main/images/penguins.gif" width="180px" alt="Pinguins Animados"/>
@@ -38,26 +38,26 @@
 
 ### 📈 Visão Geral do Perfil
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pinguindev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stroke-heatmap.vercel.app/?username=pinguindev&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanpaulinodasilva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stroke-heatmap.vercel.app/?username=ivanpaulinodasilva&theme=tokyonight" width="48%" />
 </p>
 
 ### 🕒 Idiomas Mais Usados & Commits
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinguindev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/v2/consecutive-commits?username=pinguindev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpaulinodasilva&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/v2/consecutive-commits?username=ivanpaulinodasilva&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ### 🏆 Conquistas e Troféus (Badges)
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pinguindev&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Troféus" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ivanpaulinodasilva&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Troféus" />
   </a>
 </p>
 
 ### 📉 Histórico de Contribuições Anual
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinguindev&theme=tokyonight&bg_color=0a0f1d&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanpaulinodasilva&theme=tokyonight&bg_color=0a0f1d&hide_border=true" width="100%" />
 </p>
 
 ---
