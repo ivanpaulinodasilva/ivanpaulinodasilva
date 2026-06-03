@@ -31,22 +31,24 @@
 ---
 ## 📊 Estatísticas e Métricas
 
-### 📈 Visão Geral do Perfil
+### 📈 Visão Geral do Perfil e Idiomas
 <p align="center">
+  <!-- Cartão 1: Estatísticas Gerais -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanpaulinodasilva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Estatísticas Gerais" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanpaulinodasilva&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Idiomas Mais Usados" />
+  
+  <!-- Cartão 2: Idiomas Mais Usados (Compacto) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanpaulinodasilva&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Idiomas Mais Usados" />
 </p>
 
-### 🏆 Conquistas e Troféus (Badges Oficiais)
+### 🏆 Medalhas de Tecnologias (Badges)
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=ivanpaulinodasilva&theme=tokyonight&layout=compact&hide_border=true" width="60%" alt="Métricas de Tempo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<p align="center">
-  <img src="https://my-badges.github.io/badges/badge.svg" width="100" alt="GitHub Badge" />
-</p>
-
-### 📉 Histórico de Contribuições
+### 📉 Sequência de Contribuições (Streak)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanpaulinodasilva&theme=tokyonight&hide_border=true" width="100%" alt="Sequência de Contribuições" />
 </p>
