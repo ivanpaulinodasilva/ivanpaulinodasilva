@@ -48,10 +48,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 📉 Sequência de Contribuições (Streak)
-<p align="center">
-  <img src="https://github-readme-streak-stats.onrender.com/?user=ivanpaulinodasilva&theme=tokyonight&hide_border=true" width="100%" alt="Sequência de Contribuições" />
-</p>
+### 🏆 Conquistas e Troféus (Badges)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=ivanpaulinodaluno-vocacao&theme=tokyonight&column=5&no-bg=true)
 
 ---
 
