@@ -32,27 +32,27 @@
 
 ## 📊 Estatísticas e Métricas
 
+## 📊 Estatísticas e Métricas
+
 ### 📈 Visão Geral do Perfil
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanpaulinodasilva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stroke-heatmap.vercel.app/?username=ivanpaulinodasilva&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ivanpaulinodasilva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Estatísticas Gerais" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/v2/consecutive-commits?username=ivanpaulinodasilva&theme=tokyonight&hide_border=true" width="48%" alt="Dias Consecutivos" />
 </p>
 
-### 🕒 Idiomas Mais Usados & Commits
+### 🕒 Idiomas Mais Usados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpaulinodasilva&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ivanpaulinodasilva&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="60%" alt="Idiomas Mais Usados" />
 </p>
 
 ### 🏆 Conquistas e Troféus (Badges)
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ivanpaulinodasilva&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Troféus" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ivanpaulinodasilva&theme=tokyonight&column=5&no-bg=true&no-frame=true" alt="Troféus do GitHub" />
 </p>
 
 ### 📉 Histórico de Contribuições Anual
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanpaulinodasilva&theme=tokyonight&bg_color=0a0f1d&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanpaulinodasilva&theme=tokyonight&bg_color=0a0f1d&hide_border=true" width="100%" alt="Gráfico de Atividade" />
 </p>
 
 ---
