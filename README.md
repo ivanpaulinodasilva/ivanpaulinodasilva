@@ -45,8 +45,8 @@
 ### 🕒 Idiomas Mais Usados & Commits
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpaulinodasilva&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/v2/consecutive-commits?username=ivanpaulinodasilva&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
 
 ### 🏆 Conquistas e Troféus (Badges)
 <p align="center">
