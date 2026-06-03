@@ -50,7 +50,7 @@
 
 ### 📉 Sequência de Contribuições (Streak)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanpaulinodasilva&theme=tokyonight&hide_border=true" width="100%" alt="Sequência de Contribuições" />
+  <img src="https://github-readme-streak-stats.onrender.com/?user=ivanpaulinodasilva&theme=tokyonight&hide_border=true" width="100%" alt="Sequência de Contribuições" />
 </p>
 
 ---
