@@ -34,22 +34,21 @@
 ### 📈 Visão Geral do Perfil
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanpaulinodasilva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Estatísticas Gerais" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/v2/consecutive-commits?username=ivanpaulinodasilva&theme=tokyonight&hide_border=true" width="48%" alt="Dias Consecutivos" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanpaulinodasilva&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Idiomas Mais Usados" />
 </p>
 
-### 🕒 Idiomas Mais Usados
+### 🏆 Conquistas e Troféus (Badges Oficiais)
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanpaulinodasilva&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="60%" alt="Idiomas Mais Usados" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=ivanpaulinodasilva&theme=tokyonight&layout=compact&hide_border=true" width="60%" alt="Métricas de Tempo" />
 </p>
 
-### 🏆 Conquistas e Troféus (Badges)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivanpaulinodasilva&theme=tokyonight&column=5&no-bg=true" alt="Troféus do GitHub" />
+  <img src="https://my-badges.github.io/badges/badge.svg" width="100" alt="GitHub Badge" />
 </p>
 
-### 📉 Histórico de Contribuições Anual
+### 📉 Histórico de Contribuições
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanpaulinodasilva&theme=tokyonight&bg_color=0a0f1d&hide_border=true" width="100%" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanpaulinodasilva&theme=tokyonight&hide_border=true" width="100%" alt="Sequência de Contribuições" />
 </p>
 
 ---
