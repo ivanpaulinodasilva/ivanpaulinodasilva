@@ -49,7 +49,7 @@
 </p>
 
 ### 🏆 Conquistas e Troféus (Badges)
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=ivanpaulinodaluno-vocacao&theme=tokyonight&column=5&no-bg=true)
+
 
 ---
 
